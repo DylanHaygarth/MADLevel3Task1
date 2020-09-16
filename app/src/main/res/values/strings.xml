@@ -14,6 +14,8 @@
     <string name="button_start_fragment">start</string>
     <string name="title_rating_fragment">Rate the following game from 1 to 5 stars!</string>
     <string name="button_rating_fragment">to summary</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 
 
 </resources>
